@@ -1,8 +1,0 @@
-.gitignore
-.nojekyll
-.git
-keepfiles.txt
-README.md
-jekyll
-scripts
-.
